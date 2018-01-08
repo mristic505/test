@@ -1,3 +1,6 @@
 First line of text
 
 Text added on mster branch
+
+Text added on side branch
+
