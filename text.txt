@@ -5,3 +5,7 @@ Text added on side branch
 Text added on master branch
 
 Text added on side branch 2
+
+Text added on side branch 3
+
+Text added on side branch 4
