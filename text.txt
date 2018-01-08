@@ -1,6 +1,7 @@
 First line of text
 
-Text added on mster branch
-
 Text added on side branch
 
+Text added on master branch
+
+Text added on side branch 2
