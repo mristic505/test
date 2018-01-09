@@ -13,3 +13,6 @@ Text added on side branch 4
 Text added on side branch 5
 
 Text added on master branch 2
+
+Text added on side branch 6
+
